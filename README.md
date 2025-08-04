@@ -1,6 +1,6 @@
 # git-lfs-mirror
 
-
+![moe](moe_2.png)
 
 ## Getting started
 
